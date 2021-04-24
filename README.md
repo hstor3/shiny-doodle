@@ -17,7 +17,7 @@ For this project, I created an ecommerce database using seeds files, express.js,
 
 ### Walk Through Video
 
-![Video](https://drive.google.com/file/d/1oSv6CVEjq5ElTQ8cuhp2px-OBgH19MWB/view)
+![https://drive.google.com/file/d/1oSv6CVEjq5ElTQ8cuhp2px-OBgH19MWB/view](https://drive.google.com/file/d/1oSv6CVEjq5ElTQ8cuhp2px-OBgH19MWB/view)
 
 ## Getting Started 
 
